@@ -6,7 +6,7 @@ This project is a simple task management application developed to streamline you
 3. Mark as Completed: Check off completed tasks to keep track of your progress.
 4. View Completed Tasks: Review all completed tasks in one place.
 5. View Uncompleted Tasks: See the tasks that still require attention.
-6. # Technologies
+# Technologies
 1. HTML
 2. CSS
 3. Javascript
